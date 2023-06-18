@@ -1,0 +1,8 @@
+C:\New folder\task4\Circular linkedList\CircularLinkedList_Q2_\CircularLinkedList_Q2_\bin\Debug\CircularLinkedList_Q2_.exe.config
+C:\New folder\task4\Circular linkedList\CircularLinkedList_Q2_\CircularLinkedList_Q2_\bin\Debug\CircularLinkedList_Q2_.exe
+C:\New folder\task4\Circular linkedList\CircularLinkedList_Q2_\CircularLinkedList_Q2_\bin\Debug\CircularLinkedList_Q2_.pdb
+C:\New folder\task4\Circular linkedList\CircularLinkedList_Q2_\CircularLinkedList_Q2_\obj\Debug\CircularLinkedList_Q2_.csproj.AssemblyReference.cache
+C:\New folder\task4\Circular linkedList\CircularLinkedList_Q2_\CircularLinkedList_Q2_\obj\Debug\CircularLinkedList_Q2_.csproj.SuggestedBindingRedirects.cache
+C:\New folder\task4\Circular linkedList\CircularLinkedList_Q2_\CircularLinkedList_Q2_\obj\Debug\CircularLinkedList_Q2_.csproj.CoreCompileInputs.cache
+C:\New folder\task4\Circular linkedList\CircularLinkedList_Q2_\CircularLinkedList_Q2_\obj\Debug\CircularLinkedList_Q2_.exe
+C:\New folder\task4\Circular linkedList\CircularLinkedList_Q2_\CircularLinkedList_Q2_\obj\Debug\CircularLinkedList_Q2_.pdb
